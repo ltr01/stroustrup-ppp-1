@@ -1,4 +1,5 @@
-// Chapter 12, exercise 01: draw rectangle as Rectangle and Polygon
+// Chapter 12, 
+// Exercise 01: draw rectangle as Rectangle and Polygon
 // Exercise 02: Draw 100-by-30 Rectangle, place text inside it
 // Exercise 03: Draw initials 150 px high
 // Exercise 04: Draw 3-by-3 tic-tac-toe board
@@ -8,7 +9,7 @@
 // Exercise 07: Draw 2D house
 // Exercise 08: Draw Olympic rings
 // Exercise 09: Display image, label with title and caption
-// Exercise 10: Draw file diagram from ง12.8
+// Exercise 10: Draw file diagram from ยง12.8
 // Exercise 11: Draw series of polygons inside of each other
 // Exercise 12: Connect points on superellipse
 // Exercise 13: Add colour to exercise 12
@@ -233,7 +234,7 @@ void ex09(Simple_window& win)
     win.wait_for_button();
 }
 
-// draw the file diagram from ง12.8
+// draw the file diagram from ยง12.8
 void ex10(Simple_window& win)
 {
     Graph_lib::Rectangle fltk1(Point(400,10),120,40);
